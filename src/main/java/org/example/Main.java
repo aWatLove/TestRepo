@@ -9,5 +9,7 @@ public class Main {
         System.out.println("something else");
 
         System.out.println("some in dev");
+        System.out.println("sdgdsg");
+        System.out.println("sdgsdg");
     }
 }
