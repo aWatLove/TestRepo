@@ -7,5 +7,7 @@ public class Main {
         System.out.println("some text");
         System.out.println("some else text right here");
         System.out.println("something else");
+
+        System.out.println("some in dev");
     }
 }
